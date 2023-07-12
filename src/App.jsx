@@ -54,7 +54,7 @@ function App() {
 export default App;
 
 // c117959a
-const API_URL = "http://www.omdbapi.com?apikey=c117959a";
+const API_URL = "https://www.omdbapi.com?apikey=c117959a";
 const movie = {
   Title: "Spider-Man: No Way Home",
   Year: "2021",
