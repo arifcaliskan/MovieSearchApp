@@ -1,5 +1,5 @@
 # Movie Search App
-A movie searching app using omdb API
+A responsive movie searching app using omdb API
 ## React, Components, UseState, useEffect, API Exercises
 I used React for functionality and Tailwind for styling, also React Icons for Icon pack. I have practiced Components, UseState and UseEffect Hooks and worked with omdb API for displaying movies.
 ## Search Function 
