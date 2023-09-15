@@ -5,5 +5,5 @@ I used React for functionality and Tailwind for styling, also React Icons for Ic
 ## Search Function 
 This app allows you to search movie and display the results accordingly.
 ### Deployed to Vercel
-Check Out [Link to site](doc:https://movie-search-amrrkg09f-arifcaliskan.vercel.app)
+Check Out [Link to site](https://movie-search-amrrkg09f-arifcaliskan.vercel.app)
 
