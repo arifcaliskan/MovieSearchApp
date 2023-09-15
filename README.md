@@ -8,3 +8,4 @@ This app allows you to search movie and display the results accordingly.
 [Check out the site](https://movie-search-amrrkg09f-arifcaliskan.vercel.app)
  
 ![Image](https://github.com/arifcaliskan/MovieSearchApp/blob/main/MovieSearchApp.png)
+![Image2](https://github.com/arifcaliskan/MovieSearchApp/blob/main/Img2.png)
